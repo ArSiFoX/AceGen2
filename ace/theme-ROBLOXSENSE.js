@@ -3,15 +3,15 @@ ace.define("ace/theme/ROBLOXSENSE",["require","exports","module","ace/lib/dom"],
 exports.isDark = true;
 exports.cssClass = "ace-twilight";
 exports.cssText = ".ace-twilight .ace_gutter {\
-background: #1E1E1E;\
+background: #16181d;\
 color: #E2E2E2\
 }\
 .ace-twilight .ace_print-margin {\
 width: 1px;\
-background: #1E1E1E\
+background: #16181d\
 }\
 .ace-twilight {\
-background-color: #1E1E1E;\
+background-color: #16181d;\
 color: #E2E2E2\
 }\
 .ace-twilight .ace_cursor {\
